@@ -1,6 +1,6 @@
 
 ### **1. Project Overview**
-This research project was conducted by a group of Information Technology students at the **University of Economics and Finance (UEF)**. The primary objective was to investigate how **botnets**—networks of compromised "zombie" devices controlled by a "botmaster"—operate within web systems and to develop effective detection and prevention mechanisms.
+The primary objective was to investigate how **botnets**—networks of compromised "zombie" devices controlled by a "botmaster"—operate within web systems and to develop effective detection and prevention mechanisms.
 
 ### **2. The Botnet Threat**
 The sources highlight that botnets are a significant threat because they automate malicious activities at a massive scale. Key threats include:
